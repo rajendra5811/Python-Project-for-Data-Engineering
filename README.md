@@ -1,1 +1,9 @@
 # Python-Project-for-Data-Engineering
+import numpy as np 
+
+a= np.array([1,2])
+b=np.array([3,4])
+c=a+b
+print(c)
+pip3 install --upgradepip
+python3.11 -m pip install numpy
